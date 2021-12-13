@@ -1,0 +1,36 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      "introduction",
+      [
+        "tokens",
+        [
+          "typography",
+          "colors",
+          "spacing",
+          "elevation",
+          "border-radius",
+          "transition",
+          "z-index",
+          "all"
+        ]
+      ],
+      [
+        "components",
+        [
+          "button",
+          "switch",
+          "select"
+        ]
+      ],
+      [
+        "dockit",
+        [
+          "mdx-layout",
+          "story-layout"
+        ]
+      ]
+    ]
+  }
+}
