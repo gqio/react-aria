@@ -4,6 +4,6 @@
     "@babel/preset-typescript"
   ],
   "plugins": [
-    "babel-plugin-react-docgen"
+    "babel-plugin-react-docge"
   ]
 }
