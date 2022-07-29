@@ -1,1 +1,1 @@
-import '~/all/src/all.scss';
+import '~/tokens/all/src/all.scss';
